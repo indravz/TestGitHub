@@ -1,3 +1,5 @@
+Choose Option 1 — dedicated Git repo, but local Git only for now. Do not configure or create any remote repository. Keep main container itself as a plain directory. The new dev-ai-workspace should use local Git history to protect the AI workspace during this migration. Continue assessment only for now; do not create it until I approve the migration.
+
 You are helping me redesign an existing multi-repository DevOps workspace into a maintainable, governed, AI-assisted engineering workspace.
 
 This workspace has grown organically over time while I used GitHub Copilot and other AI tools. There are useful files already present, but the organization is inconsistent. Before making any changes, I want you to fully understand what exists, preserve it, classify it, and propose a cleaner architecture.
